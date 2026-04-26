@@ -1,5 +1,4 @@
 [index.html](https://github.com/user-attachments/files/27096274/index.html)
-[index.html.html](https://github.com/user-attachments/files/27096228/index.html.html)
 <!DOCTYPE html><!DOCTYPE html>
 <html lang="ja">
 <head>
